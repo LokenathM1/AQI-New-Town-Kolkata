@@ -15,7 +15,7 @@ The Dataset contains 8 columns
 7.Longitude <br />
 8.AQI <br />
 
-Report Link - 
+[Report Link](https://github.com/LokenathM1/AQI-New-Town-Kolkata/blob/main/AQI_Newtown_Kolkata.pdf) 
 
 ## Author
 ### Lokenath Mukherjee
